@@ -29,9 +29,9 @@ https://colab.research.google.com/drive/1Nbj6TM5HaK2krMRa9R1oiolDhDronYQB?usp=sh
 
 A summary of the data can be visualized on this <font color='red'>**Power BI dashboard:**</font> https://app.powerbi.com/view?r=eyJrIjoiNTkzZjNmY2UtNmQ5Mi00MTJhLTliNzgtZGU2NzRlYzQ5NDA1IiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9&pageName=ReportSection4f69a4c8629ea033a165
 
-[![Short video introduction]
-(http://i3.ytimg.com/vi/jVLb-jvQmWI/hqdefault.jpg)]
-(https://www.youtube.com/watch?v=jVLb-jvQmWI)
+<br><br>
+
+[![Short video introduction](https://drive.google.com/uc?export=view&id=1BdjY3HTE4NxWAt0tDz9iE0p723k9ue3G)](https://www.youtube.com/watch?v=jVLb-jvQmWI)
 
 # **Analyzing Youtube channels that I am subscribed to using its API.**
 
