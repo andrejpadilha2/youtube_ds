@@ -38,6 +38,8 @@ But content creators suffer from "punitive algorithms" (in their words) that inc
 
 With this in mind I decided to use its API to collect some data and try to predict a video "view count" at the time it was published. Some models were built using video title features, thumbnail color, day and hour it was published, and so on. If successful, it could be used for example to fine tune ad placement in terms of expected return it will give. If unsuccessful it can at least be improved in future iterations.
 
+![picture](https://drive.google.com/uc?export=view&id=1OAsDxFhsRTugNpJDoYhQ7dEIdLAg2fnX)
+
 
 # **1) ETL**
 *You'll need a Youtube API key and a Postgres DB on AWS RDS. The API key, db login and password needs to be inside a .env file in the first notebook.*
