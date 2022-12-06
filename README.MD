@@ -31,7 +31,8 @@ A summary of the data can be visualized on this <font color='red'>**Power BI das
 
 <br><br>
 
-[![Short video introduction](https://drive.google.com/uc?export=view&id=1BdjY3HTE4NxWAt0tDz9iE0p723k9ue3G)](https://www.youtube.com/watch?v=jVLb-jvQmWI)
+
+[![Short video introduction](https://drive.google.com/uc?export=view&id=1ekTuZnxiH80NVOZgp-wizQnY2P-WK5Dt)](https://www.youtube.com/watch?v=jVLb-jvQmWI)
 
 # **Analyzing Youtube channels that I am subscribed to using its API.**
 
